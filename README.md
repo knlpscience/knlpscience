@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=knlpscience%20&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=knlpscience%20&fontSize=30)
 
 <!--
 **knlpscience/knlpscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
