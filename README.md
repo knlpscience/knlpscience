@@ -5,7 +5,8 @@
 </div>
 
 **NLP Scientist**
-- I majored in applied statistics and studied data science, and I am particularly interested in the NLP field.
+- I majored in applied statistics and studied data science
+- I am particularly interested in the NLP field.
 
 **Interest**
 - Methodological research to improve the performance of LLM models
