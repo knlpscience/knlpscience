@@ -10,7 +10,7 @@
 
 **Interest**
 - Methodological research to improve the performance of LLM models
-- Statistically approaching machine learning or deep learning models
+- Statistically approaching machine learning or deep learning
 
 
 
