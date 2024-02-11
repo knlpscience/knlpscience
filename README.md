@@ -12,4 +12,4 @@
 - Methodological research to improve the performance of LLM models
 - Statistically approaching machine learning or deep learning models
 
-[![Notion Badge](http://img.shields.io/badge/-notion%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://gorgeous-houseboat-305.notion.site/NLP-7634c465ad0646b096c98d6d7dba4fe5?pvs=4)
+[![Notion Badge](http://img.shields.io/badge/-notion%20-#000000?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://gorgeous-houseboat-305.notion.site/NLP-7634c465ad0646b096c98d6d7dba4fe5?pvs=4)
