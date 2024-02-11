@@ -4,4 +4,5 @@
 
 </div>
 
-**Data Scientist** 
+*NLP Scientist*
+- I majored in applied statistics and studied data science, and I am particularly interested in the NLP field.
